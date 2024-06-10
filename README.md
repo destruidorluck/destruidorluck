@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Para contato chamar nas redes abaixo!
  
 <div> 
   <a href="https://www.instagram.com/lucas_tome_0_0?igsh=MXI3eGhvMnVodjBtZw==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
