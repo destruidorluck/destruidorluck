@@ -18,7 +18,7 @@
 
 ### 🚀 Sobre Mim
 * 🎓 **Formação:** Cursando o 4º semestre de **Desenvolvimento de Software Multiplataforma na Fatec Zona Sul** e Técnico em **Mecatrônica pela Etec Getúlio Vargas**. Essa base híbrida me permite transitar entre sistemas complexos de hardware e aplicações de software escaláveis.
-* 💼 **Atuação Atual:** Estagiário de Desenvolvimento e Voluntário de Tecnologia/Dados na ONG **Practical Science Education (PSE)**, onde aplico SQL e Power BI para transformar dados brutos em decisões estratégicas.
+* 💼 **Atuação Atual:**Voluntário de Tecnologia/Dados na ONG **Practical Science Education (PSE)**, onde aplico SQL e Power BI para transformar dados brutos em decisões estratégicas.
 * 🧠 **Foco:** Apaixonado por UX/UI e redução de carga cognitiva, conceitos que aplico diretamente no projeto **Aura Mind**.
 
 ---
